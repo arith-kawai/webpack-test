@@ -1,0 +1,10 @@
+{
+  "name": "static-website-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "s3-deploy": "^0.7.5"
+  }
+}
